@@ -11,7 +11,11 @@ http://blog.sciencenet.cn/blog-542153-628833.html
 
 
 清华大学图书馆网站：http://www.lib.tsinghua.edu.cn/
+
 http://nav.lib.tsinghua.edu.cn/cgi-bin/categoryuse.cgi?c=000000253
+
+http://sfx.lib.tsinghua.edu.cn/cgi-bin/ej.cgi?ci=%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF
+
 
     该网站具有很强的学术性。网站界面内容精炼，将各类文献信息的检索和咨询服务融为一体，并将各类别的网上资源和本馆的文献资源加以整合，为本校及其它高校读者提供了极大的方便。
 
